@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1,h2,h3,h4,h5,h6{font-family: 'Open Sans Condensed', sans-serif;}
+
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+
+a{color:#b16241;}
+
+.display-4 {
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 1rem;
+}
+
+.ondertekst{color:#999; font-style: italic;}
+
+.titel,
+.navigatie li{font-weight: 900;}
+
+.titel{font-size: 1.1rem;}
+.bg { 
+  /* The image used */
+  background-image: url("../img/IMG_1036©KellieLippens.jpg");	
+
+  /* Full height */
+  height: 290%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.afbintekst img{width: 100%;height: 100%;}
+/* Volgende regel gaat de geïmporteerde fiont toewijzen aan elke paragraaf */
+body{font-family: 'Open Sans Condensed', sans-serif;}
+
+/* volgende regel gaat de achtergrondkleur bepalen van de klasse genaamd "tweedesectie" */
+#tweedesectie{padding: 50px;}
+/* volgende rgeel gaat de klasse "container-fluid" beschrijven*/
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer,.titel,.navigatie{font-family: 'Open Sans Condensed', sans-serif;}
+#bodycontainer{padding-top:20px;}
+.titel{margin-top:1rem;margin-bottom:20px;}
+
+.navigatie{margin-top20px;color:#000000;}
+.navigatie ul li{list-style-type: none;}
+.navigatie ul {padding: 0;}
+.navigatie ul ul {padding-left:10px;}
+
+
+.footer{postion:bottom; }
+.navigatiekolom {background-color: rgba(255,255,255,0.50);}
+.navigatiekolom{}
+.contentkolom{}
+.contentkolom p{margin:1rem;}
