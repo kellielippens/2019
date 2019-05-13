@@ -25,7 +25,7 @@ font-size: 1rem;
 .titel{font-size: 1.1rem;}
 .bg { 
   /* The image used */
-  background-image: url("../img/IMG_1036©KellieLippens.jpg");	
+  background-image: 
 
   /* Full height */
   height: 290%; 
@@ -54,7 +54,6 @@ body{font-family: 'Open Sans Condensed', sans-serif;}
 .footer,.titel,.navigatie{font-family: 'Open Sans Condensed', sans-serif;}
 #bodycontainer{padding-top:20px;}
 .titel{margin-top:1rem;margin-bottom:20px;}
-
 .navigatie{margin-top20px;color:#000000;}
 .navigatie ul li{list-style-type: none;}
 .navigatie ul {padding: 0;}
