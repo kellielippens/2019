@@ -38,7 +38,7 @@
 *,
 *::before,
 *::after {
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 
 html {
@@ -135,10 +135,8 @@ dfn {
   font-style: italic;
 }
 
-b,
-strong {
-  font-weight: bolder;
-}
+b, 
+strong {font-weight: 100;}
 
 small {
   font-size: 80%;
