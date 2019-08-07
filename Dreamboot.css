@@ -14,7 +14,7 @@ a{color:#666;}
 
 .display-4 {
 font-family: 'Open Sans Condensed', sans-serif;
-font-size: 1rem;
+font-size: 0.5rem;
 }
 
 .ondertekst{color:#999; font-style: italic;}
@@ -22,7 +22,7 @@ font-size: 1rem;
 .titel,
 .navigatie li{/* font-weight: 900; */;}
 
-.titel{font-size: 1.8rem;}
+.titel{font-size: 1rem;}
 .bg { 
   /* The image used */
   background-image: 
@@ -53,7 +53,7 @@ body{font-family: 'Open Sans Condensed', sans-serif;}
 
 .footer,.titel,.navigatie{font-family: 'Open Sans Condensed', sans-serif;}
 #bodycontainer{padding-top:20px;}
-.titel{margin-top:1rem;margin-bottom:20px;}
+.titel{margin-top:1rem;margin-bottom:50px;}
 .navigatie{margin-top20px;color:#000000;}
 .navigatie ul li{list-style-type: none;}
 .navigatie ul {padding: 0;}
